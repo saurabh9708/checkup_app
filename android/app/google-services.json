@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737381494777",
+    "project_id": "authtutorial-b1d10",
+    "storage_bucket": "authtutorial-b1d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737381494777:android:754cc8c392457b7fb15728",
+        "android_client_info": {
+          "package_name": "com.example.checkup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737381494777-vo7qv940so1e8qor3g6air4kr3ticvur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzF9J1vp5kqebIednvywo4-2cpqAC2q4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737381494777-vo7qv940so1e8qor3g6air4kr3ticvur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
